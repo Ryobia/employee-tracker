@@ -4,7 +4,6 @@
   "description": "you can like track employees and stuff",
   "main": "server.js",
   "dependencies": {
-    "console.table": "^0.10.0",
     "express": "^4.17.1",
     "inquirer": "^8.0.0",
     "mysql2": "^2.2.5"
@@ -17,6 +16,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "console.table": "^0.10.0",
     "jest": "^26.6.3"
   }
 }
