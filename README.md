@@ -33,3 +33,5 @@
 
   *If you would like to contact the developer you may do so at their [Email](mailto:ryobia36@gmail.com).
   To see more from the developer please visit their [Github](https://github.com/Ryobia) profile.
+  
+  ![screenshot](https://github.com/Ryobia/employee-tracker/blob/main/2021-04-09.png) 
