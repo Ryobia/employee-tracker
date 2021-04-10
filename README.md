@@ -1,19 +1,35 @@
-# employee-tracker
+# Employee-Tracker ![badge](https://img.shields.io/badge/license-MIT-green)
 
-GIVEN a command-line application that accepts user input
-WHEN I start the application
-THEN I am presented with the following options: view all departments, view all roles, view all employees, add a department, add a role, add an employee, and update an employee role
-WHEN I choose to view all departments
-THEN I am presented with a formatted table showing department names and department ids
-WHEN I choose to view all roles
-THEN I am presented with the job title, role id, the department that role belongs to, and the salary for that role
-WHEN I choose to view all employees
-THEN I am presented with a formatted table showing employee data, including employee ids, first names, last names, job titles, departments, salaries, and managers that the employees report to
-WHEN I choose to add a department
-THEN I am prompted to enter the name of the department and that department is added to the database
-WHEN I choose to add a role
-THEN I am prompted to enter the name, salary, and department for the role and that role is added to the database
-WHEN I choose to add an employee
-THEN I am prompted to enter the employee’s first name, last name, role, and manager and that employee is added to the database
-WHEN I choose to update an employee role
-THEN I am prompted to select an employee to update and their new role and this information is updated in the database 
+## Description 
+  Do you keep forgetting the names of your employees or how much you're supposed to be paying them? Are you having trouble figuring out which manager you need to talk to when steve from accounting is late again? Well look no further! With this handy dandy Employee Tracker you'll never need to remember again! Now you can find all of that information in seconds and you can even add new departments, roles and employees in just a few simple steps. And, when you finally demote Steve to intern, you can with the Update employee role option!
+
+## Table of Contents
+
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contribution](#contribution)
+* [Tests](#tests)
+* [License](#license)
+* [Questions](#questions)
+
+
+
+
+
+
+
+
+
+
+
+## License
+  [MIT License](https://spdx.org/licenses/MIT.html)
+
+
+
+
+
+## Questions
+
+  *If you would like to contact the developer you may do so at their [Email](mailto:ryobia36@gmail.com).
+  To see more from the developer please visit their [Github](https://github.com/Ryobia) profile.
