@@ -9,3 +9,14 @@ LEFT JOIN departments
 ON roles.department_id = departments.id
 LEFT JOIN employees m 
 ON e.manager_id = m.id;
+
+SELECT roles.id, roles.title, roles.salary, departments.name as department
+FROM roles
+LEFT JOIN departments
+ON roles.department_id = departments.id;
+
+select employees.id, concat(employees.first_name, ' ', employees.last_name)
+from employees
+union all
+select roles.id, roles.title
+from roles;
